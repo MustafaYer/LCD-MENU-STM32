@@ -1,0 +1,9 @@
+../Core/LCD/i2c-lcd.c:9:6:delay	3
+../Core/LCD/i2c-lcd.c:19:6:lcd_locate	3
+../Core/LCD/i2c-lcd.c:33:6:lcd_send_cmd	1
+../Core/LCD/i2c-lcd.c:47:6:lcd_send_data	1
+../Core/LCD/i2c-lcd.c:61:6:lcd_clear	2
+../Core/LCD/i2c-lcd.c:69:6:lcd_put_cur	3
+../Core/LCD/i2c-lcd.c:83:6:lcd_init	1
+../Core/LCD/i2c-lcd.c:111:6:lcd_send_string	2
+../Core/LCD/i2c-lcd.c:117:6:lcd_send_int	1

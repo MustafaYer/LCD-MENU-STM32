@@ -1,0 +1,8 @@
+../Core/LCD/LCD_BUF.c:17:6:buf_locate	1
+../Core/LCD/LCD_BUF.c:22:6:buf_char	5
+../Core/LCD/LCD_BUF.c:35:6:buf_clear_menu	3
+../Core/LCD/LCD_BUF.c:46:6:lcd_refresh	5
+../Core/LCD/LCD_BUF.c:67:6:buf_clear	3
+../Core/LCD/LCD_BUF.c:78:6:buf_str_XY	2
+../Core/LCD/LCD_BUF.c:87:6:buf_str	2
+../Core/LCD/LCD_BUF.c:93:6:buf_int	1

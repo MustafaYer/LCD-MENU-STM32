@@ -1,0 +1,5 @@
+../Core/MENU/BRIGTHNESS/BRIGHTNESS.c:25:6:disp_brightness_next	2
+../Core/MENU/BRIGTHNESS/BRIGHTNESS.c:35:6:disp_brightness_prev	2
+../Core/MENU/BRIGTHNESS/BRIGHTNESS.c:45:6:disp_brightness_back	1
+../Core/MENU/BRIGTHNESS/BRIGHTNESS.c:56:6:disp_brightness_refresh	4
+../Core/MENU/BRIGTHNESS/BRIGHTNESS.c:87:6:disp_brightness_callback	1

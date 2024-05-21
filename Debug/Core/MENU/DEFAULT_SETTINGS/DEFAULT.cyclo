@@ -1,0 +1,4 @@
+../Core/MENU/DEFAULT_SETTINGS/DEFAULT.c:34:6:default_settings	1
+../Core/MENU/DEFAULT_SETTINGS/DEFAULT.c:42:6:default_back	1
+../Core/MENU/DEFAULT_SETTINGS/DEFAULT.c:53:6:default_refresh	1
+../Core/MENU/DEFAULT_SETTINGS/DEFAULT.c:62:6:default_callback	1

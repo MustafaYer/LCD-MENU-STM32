@@ -1,0 +1,10 @@
+../Core/MENU/MENU.c:92:6:menu_refresh	6
+../Core/MENU/MENU.c:133:9:menu_get_index	5
+../Core/MENU/MENU.c:156:9:menu_get_level	3
+../Core/MENU/MENU.c:171:6:menu_next	3
+../Core/MENU/MENU.c:190:6:menu_prev	6
+../Core/MENU/MENU.c:216:6:menu_enter	5
+../Core/MENU/MENU.c:242:6:menu_back	4
+../Core/MENU/MENU.c:263:6:key_next_press	5
+../Core/MENU/MENU.c:283:6:key_enter_press	6
+../Core/MENU/MENU.c:301:6:back_enter_press	6
